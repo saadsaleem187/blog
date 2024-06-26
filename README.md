@@ -1,3 +1,7 @@
+# Blog Backend
+
+Blog app is developed using Django Rest Framework.
+
 ```bash
 $ git clone https://github.com/saadsaleem187/blog.git
 $ cd blog
